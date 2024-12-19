@@ -16,6 +16,6 @@ public class MetodosOptional {
     }
 
     public static Optional<String> buscarNome() {
-        return Optional.empty();
+        return Optional.ofNullable(null);
     }
 }

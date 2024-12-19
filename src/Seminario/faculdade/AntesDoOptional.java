@@ -12,7 +12,8 @@ public class AntesDoOptional {
     }
 
     public static String buscarNome() {
-        return null;
+        String nome = null;
+        return nome;
     }
 }
 
